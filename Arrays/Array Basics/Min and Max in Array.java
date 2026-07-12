@@ -19,3 +19,23 @@ class Solution {
 
     }
 }
+
+
+//Solution 2 :
+class Solution {
+    public ArrayList<Integer> getMinMax(int[] arr) {
+        int min = arr[0];
+        int max = arr[0];
+
+        //using InbuiltFunction
+        for (int num : arr) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+
+        ArrayList<Integer> ans = new ArrayList<>();
+        ans.add(min);
+        ans.add(max);
+        return ans;
+    }
+}
