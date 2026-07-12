@@ -8,3 +8,4 @@
 | 2 | [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Array%20Basics/Min%20and%20Max%20in%20Array.java) |
 | 3 | [Sum of Array](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Basic | GFG | [java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Array%20Basics/3.%20Sum%20of%20Array.java) |
 | 4 |[Sum of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Array%20Basics/4.%20Sum%20Of%20Digits.java) |
+| 5 |[Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Array%20Basics/5.%20Check%20if%20array%20is%20sorted.java) |
