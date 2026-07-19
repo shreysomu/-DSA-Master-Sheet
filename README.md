@@ -21,6 +21,7 @@
  | 3 |[268. Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy | Leetcode | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/3.%20268.%20Missing%20Number.java) |
  | 4 |[Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/4.%20Reverse%20an%20Array.java) |   
  | 5 |[Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/5.%20Segregate%200s%20and%201s.java) |
+ | 6 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | Easy | Leetcode | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/6.%20485.%20Max%20Consecutive%20Ones.java) |
 
 
 
