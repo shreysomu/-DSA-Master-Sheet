@@ -19,7 +19,9 @@
  | 1 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy | LeetCode | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
  | 2 |[Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/2.Second%20Largest%20in%20Array.java) |
  | 3 |[268. Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy | Leetcode | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/3.%20268.%20Missing%20Number.java) |
- | 4 |[Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/4.%20Reverse%20an%20Array.java) |
+ | 4 |[Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/4.%20Reverse%20an%20Array.java) |   
+ | 5 |[Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | GFG | [Java](https://github.com/shreysomu/-DSA-Master-Sheet/blob/main/Arrays/Core%20Manipulations/5.%20Segregate%200s%20and%201s.java) |
+
 
 
 
